@@ -1,0 +1,17 @@
+h2{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Goldman', cursive;
+
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn 
+{
+margin-left: 0%;
+margin-top:10px;
+margin-bottom: 15px;
+}
+    
